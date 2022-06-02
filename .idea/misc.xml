@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/about_us_privacy.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_10x10.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_11x11.xml" value="0.2" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_12x12.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_13x13.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_14x14.xml" value="0.15" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_15x15.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_16x16.xml" value="0.22" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_17x17.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_18x18.xml" value="0.25" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_20x20.xml" value="0.22" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_4x4.xml" value="0.33" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_5x5.xml" value="0.22" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_6x6.xml" value="0.25" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_7x7.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_8x8.xml" value="0.25" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_9x9.xml" value="0.33" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_highscore.xml" value="0.2" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_main.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_main2.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_newgame.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_play_sudoku.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_setting.xml" value="0.16" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_solver.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/dialog_privacy.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/info_highscore.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/inputnamehighscore.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/settings_activity.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/tmp.xml" value="0.1614497528830313" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/xml/header_preferences.xml" value="0.33" />
+        <entry key="..\:/DEV/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/xml/messages_preferences.xml" value="0.1" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/drawable/custom_button_white_tint.xml" value="0.1995" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/drawable/custom_imagebutton.xml" value="0.1995" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/drawable/shape5x5.xml" value="0.1985" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout-land/activity_4x4.xml" value="0.67" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout-sw600dp/activity_4x4.xml" value="0.1" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/about_us_privacy.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_10x10.xml" value="0.33" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_11x11.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_12x12.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_13x13.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_14x14.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_15x15.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_16x16.xml" value="0.2" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_17x17.xml" value="0.3630705394190871" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_18x18.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_20x20.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_4x4.xml" value="0.12" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_4x4_tablet.xml" value="0.49" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_5x5.xml" value="0.3365019011406844" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_6x6.xml" value="0.3504950495049505" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_7x7.xml" value="0.30625" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_8x8.xml" value="0.2739938080495356" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_9x9.xml" value="0.18" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_highscore.xml" value="0.1" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_newgame.xml" value="0.16" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_play_sudoku.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/activity_solver.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/info_highscore.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/temp.xml" value="0.45901639344262296" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/tmp.xml" value="0.2922564529558701" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/layout/tmp2.xml" value="0.37619553666312433" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/menu/menu_.xml" value="0.1614497528830313" />
+        <entry key="..\:/PROJECT-Android/PROJECT-SUDOKU/SUDOKU/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1735" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/drawable/background_color_custom_button.xml" value="0.147" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/activity_4x4.xml" value="0.716374269005848" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/activity_5x5.xml" value="0.38161993769470404" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/activity_6x6.xml" value="1.1" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/activity_8x8.xml" value="0.4696969696969697" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/activity_9x9.xml" value="0.75" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/activity_highscore.xml" value="0.67" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/activity_main.xml" value="0.6805555555555556" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/activity_newgame.xml" value="0.375" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/dialog_privacy.xml" value="0.49" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/info_highscore.xml" value="0.49" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/inputnamehighscore.xml" value="0.49" />
+        <entry key="..\:/PROJECT-Android/SUDOKU/app/src/main/res/layout/tmp.xml" value="0.5" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable-note_/top111.xml" value="0.52875" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/background_color_custom.xml" value="0.2203125" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/background_color_custom_button.xml" value="0.33" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/button_5x5.xml" value="0.52875" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/clock.xml" value="0.2203125" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/clock_drawable_left.xml" value="0.2203125" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/custom_color_button.xml" value="0.52875" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/custom_imagebutton.xml" value="0.52875" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/shape5x5.xml" value="0.52875" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/drawable/top000.xml" value="0.2203125" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_16x16.xml" value="0.25265188042430087" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_4x4.xml" value="0.67" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_5x5.xml" value="1.1" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_6x6.xml" value="0.65" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_9x9.xml" value="0.67" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_continue.xml" value="0.33" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_highscore.xml" value="0.5" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_highscore2.xml" value="0.20416666666666666" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_highscore9x9.xml" value="0.697508896797153" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_highscore_scrollview.xml" value="0.5" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_newgame.xml" value="0.67" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_sudoku4x4.xml" value="0.49" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/activity_sudokuveryeasy.xml" value="0.1" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/info_highscore.xml" value="0.75" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/layout/inputnamehighscore.xml" value="0.67" />
+        <entry key="..\:/PROJECT/SUDOKU/app/src/main/res/menu/menu_.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
